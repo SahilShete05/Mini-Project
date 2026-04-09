@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build folders
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Cache
+.cache/
+.parcel-cache/
+
+# React / Next / Vite
+.next/
+out/
+.vite/
+
+# Coverage
+coverage/
+
+# Database
+*.db
+*.sqlite
+
+# Uploads
+uploads/
+
+# Misc
+*.pem
+*.pid
